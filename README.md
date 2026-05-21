@@ -27,6 +27,14 @@ Le son est directement interrompu si une autre note est jouée.
 
 ## Installation
 
+Important – Antivirus et droits administrateur
+VirtualCelloNP est un petit logiciel pédagogique indépendant distribué gratuitement et sans signature numérique officielle.
+Certains antivirus, notamment Norton, peuvent effectuer une analyse de sécurité lors du lancement du programme d’installation. Pendant cette vérification, l’installation peut sembler momentanément interrompue. Il suffit d’attendre la fin de l’analyse pour que le processus continue normalement.
+Selon la configuration de Windows ou de l’antivirus, un message peut également demander l’exécution du programme avec les droits administrateur. Dans ce cas :
+
+- cliquer avec le bouton droit sur le fichier d’installation
+- choisir : "Exécuter en tant qu’administrateur"
+
 1. Télécharger :
    Setup_VirtualCelloNP.exe
 
