@@ -2,7 +2,7 @@
 
 VirtualCelloNP (Notes & Positions) est un petit logiciel pédagogique gratuit destiné aux professeurs et élèves de violoncelle.
 
-<img src="ImageVirtualCello.png" width="600">
+<img src="ImageVirtualCello.png" width="400">
 
 ## Démo vidéo
 👉 Télécharger / voir la vidéo  et cliquer sur View raw:
