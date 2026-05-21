@@ -35,6 +35,8 @@ Selon la configuration de Windows ou de l’antivirus, un message peut égalemen
 - cliquer avec le bouton droit sur le fichier d’installation
 - choisir : "Exécuter en tant qu’administrateur"
 
+- Le programme ne contient aucun composant publicitaire, collecte de données ou accès réseau caché.
+
 1. Télécharger :
    Setup_VirtualCelloNP.exe
 
