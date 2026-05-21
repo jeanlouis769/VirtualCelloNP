@@ -5,12 +5,12 @@ VirtualCelloNP (Notes & Positions) est un petit logiciel pédagogique gratuit de
 <img src="ImageVirtualCello.png" width="400">
 
 ## Démo vidéo
-👉 Télécharger / voir la vidéo  et cliquer sur View raw:
+👉 Télécharger / voir la vidéo  et cliquer sur View ## raw:
 [demo VirtualCelloNP](Demo_VirtualCelloNP.mp4)
 
 ## Téléchargement direct pour Windows 
 
-[➡ Télécharger VirtualCelloNP 1.0](https://github.com/jeanlouis769/VirtualCelloNP/releases/download/v1.0/Setup_VirtualCelloNP_1.0.exe)
+[➡ Télécharger VirtualCelloNP 1.0](https://github.com/jeanlouis769/VirtualCelloNP/releases/download/v1.0/Setup_VirtualCelloNP.exe)
 
 ## Fonctions
 
@@ -28,11 +28,11 @@ Le son est directement interrompu si une autre note est jouée.
 ## Installation
 
 1. Télécharger :
-   VirtualCelloNP_Setup_v1.0.exe
+   Setup_VirtualCelloNP.exe
 
 2. Exécuter le programme d'installation.
 
-3. Si Windows Defender affiche un avertissement :
+3. IMPORTANT: Si Windows Defender affiche un avertissement :
 
 - cliquer sur :
   Informations complémentaires
