@@ -5,7 +5,7 @@ VirtualCelloNP (Notes & Positions) est un petit logiciel pédagogique gratuit de
 <img src="ImageVirtualCello.png" width="400">
 
 ## Démo vidéo
-👉 Télécharger / voir la vidéo  et cliquer sur View ## raw:
+👉 Télécharger / voir la vidéo  et cliquer sur View  raw:
 [demo VirtualCelloNP](Demo_VirtualCelloNP.mp4)
 
 ## Téléchargement direct pour Windows 
