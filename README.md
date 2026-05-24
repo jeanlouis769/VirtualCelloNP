@@ -10,7 +10,7 @@ VirtualCelloNP (Notes & Positions) est un petit logiciel pédagogique gratuit de
 
 ## Téléchargement direct pour Windows 
 
-[➡ Télécharger VirtualCelloNP 1.0](https://github.com/jeanlouis769/VirtualCelloNP/releases/download/v1.0/Setup_VirtualCelloNP.exe)
+[➡ Télécharger VirtualCelloNP 1.0](https://github.com/jeanlouis769/VirtualCelloNP/releases/download/v1.0.1/Setup_VirtualCelloNP_1.0.1.exe)
 
 ## Fonctions
 
